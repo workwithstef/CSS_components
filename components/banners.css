@@ -1,5 +1,5 @@
 .banner {
-	background-image: url('https://source.unsplash.com/random');
-	height: 80vh
+	background-image: url('https://source.unsplash.com/random/800x1200');
+	height: 80vh;
 	background-size: cover;
 }

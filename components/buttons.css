@@ -4,4 +4,23 @@
     border-radius: 20px;
 }
 
-.btn-blue
+.btn-scary {
+	padding: 20px 4px;
+    background-color: black
+    color: red;
+    border-radius: 20px;
+}
+
+.btn-not-scary {
+	padding: 20px 4px;
+    background-color: black
+    color: red;
+    border-radius: 20px;
+}
+
+.btn-very-scary {
+	padding: 20px 4px;
+    background-color: black
+    color: red;
+    border-radius: 20px;
+}

@@ -9,7 +9,7 @@
 
 /*SET CSS STYLE FOR GENERAL PAGES*/
 .container {
-	width: 800px
+	width: 800px;
 	margin: 20px auto;
 }
 
@@ -24,7 +24,7 @@ body, p {
 }
 
 h1 {
-	font-family: 'Poppins'
+	font-family: 'Poppins';
 	color: rgba(30, 30, 30, 0.9);
 }
 
