@@ -27,3 +27,10 @@ margin(top, sides, bottom) - 3 inputs
 ##### Avatar
 
 http://source.unsplash.com/random/300x300 - avatar image creator
+
+##### Tools
+<div style="display: flex;"> - puts elements within div, next to each other instead of on top of eachother (block)
+
+	justify-content: space-between
+	align-items: center
+	

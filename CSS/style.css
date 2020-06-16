@@ -3,9 +3,9 @@
 
 
 /*IMPORT ALL INDIVIDUAL COMPONENTS*/
-@import url('avatar.css')
-@import url('buttons.css')
-
+@import url('../components/avatar.css');
+@import url('../components/buttons.css');
+@import url('../components/banners.css');
 
 /*SET CSS STYLE FOR GENERAL PAGES*/
 .container {

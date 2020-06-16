@@ -1,0 +1,5 @@
+.banner {
+	background-image: url('https://source.unsplash.com/random');
+	height: 80vh
+	background-size: cover;
+}
