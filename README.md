@@ -9,7 +9,7 @@ Set templates
 Can build nearly any website using these.
 
 Examples of components:
-- containers 
+- containers
 - buttons
 - avatars
 - banners
@@ -39,6 +39,8 @@ http://source.unsplash.com/random/300x300 - avatar image creator
 		height: 100px;
 
 	make page body responsive to resizing:
-		
+
 		height: 100px;
 		flex: 1;
+
+	space-around 

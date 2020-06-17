@@ -9,3 +9,9 @@
 	height: 80vh;
 	background-size: cover;
 }
+
+.banner-product {
+	background-image: url('bartender.jpg');
+	height: 80vh;
+	background-size: cover;
+}

@@ -13,6 +13,32 @@
 	margin: 20px auto;
 }
 
+.card-category-container {
+	height: 1000px;
+	width: auto;
+	margin: 20px auto;
+}
+
+.card-category-title {
+		color: white;
+		top: 50%;
+    left: 50%;
+		position: fixed;
+}
+
+.card-product-container {
+	height: 1000px;
+	margin: 20px auto;
+}
+.card-product-title {
+	text-shadow: bottom;
+	color: white;
+	top: 50%;
+	left: 50%;
+	position: fixed;
+
+}
+
 .text-center {
 	text-align: center;
 }
@@ -27,4 +53,3 @@ h1 {
 	font-family: 'Poppins';
 	color: rgba(30, 30, 30, 0.9);
 }
-
